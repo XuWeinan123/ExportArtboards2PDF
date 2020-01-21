@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>这里是title</title>
-        <link></link>
+        <link>https://raw.githubusercontent.com/XuWeinan123/ExportArtboards2PDF/master/appcast.xml</link>
         <description>这里是description</description>
         <language>cn</language>
         <item>
@@ -10,6 +10,13 @@
                 这里是description2
             </description>
             <enclosure url="https://github.com/XuWeinan123/ExportArtboards2PDF/releases/download/1.0/ExportArtboards2PDF.zip" sparkle:version="1.0"/>
+        </item>
+        <item>
+            <title>版本 1.1</title>
+            <description>
+                这里是description3
+            </description>
+            <enclosure url="https://github.com/XuWeinan123/ExportArtboards2PDF/releases/download/1.1/ExportArtboards2PDF.V1.1.zip" sparkle:version="1.1"/>
         </item>
     </channel>
 </rss>
