@@ -2,10 +2,10 @@
 	"name": "导出画板为PDF",
 	"description": "可以将画板导出成PDF",
 	"author": "XuWeinan",
-	"homepage": "http://github.com/andrewfiorillo/sketch-artboards-to-pdf",
+	"homepage": "https://github.com/XuWeinan123/ExportArtboards2PDF",
 	"version": "1.0",
 	"icon" : "导出画板为PDF.jpg",
-	"identifier": "com.aaronxu.sketch.sketch-artboards-to-pdf",
+	"identifier": "com.aaronxu.sketch.export-artboards-to-pdf",
 	"commands": [
         {
         "name": "所选画板",

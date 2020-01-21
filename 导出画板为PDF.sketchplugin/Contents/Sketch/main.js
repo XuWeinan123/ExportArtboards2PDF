@@ -77,7 +77,7 @@ function selectedArtboardsToPDF(context) {
 	var tempPage = MSPage.new();
 	doc.documentData().addPage(tempPage);
 	//改动这个变量来自定义输出名称
-	var exportName = selection[indexx].name() + " 交互设计 " + getStandardTime()
+	var exportName = selection[indexx].name() + " " + getStandardTime()
 	///——————————————————————
 	tempPage.setName(exportName);
 	//tempPage.addLayers(selection);//
@@ -261,7 +261,7 @@ function artboardsToPDF(artboards,name,context){
 	var tempPage = MSPage.new();
 	doc.documentData().addPage(tempPage);
 	//改动这个变量来自定义输出名称
-	var exportName = name + " 交互设计 " + getStandardTime()
+	var exportName = name + " " + getStandardTime()
 	///——————————————————————
 	tempPage.setName(exportName);
 	//tempPage.addLayers(selection);//
