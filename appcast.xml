@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>这里是title</title>
+        <link></link>
+        <description>这里是description</description>
+        <language>cn</language>
+        <item>
+            <title>版本 1.0</title>
+            <description>
+                这里是description2
+            </description>
+            <enclosure url="https://github.com/XuWeinan123/ExportArtboards2PDF/releases/download/1.0/ExportArtboards2PDF.zip" sparkle:version="1.0"/>
+        </item>
+    </channel>
+</rss>
